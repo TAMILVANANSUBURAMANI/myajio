@@ -1,0 +1,397 @@
+#nav{
+	position:sticky;
+	top:0;
+	padding-top:10px;
+}
+#imglogo
+{
+width:120px;
+margin-top:-19px;	
+}
+#ajioheading
+{
+	font-family:lucida console,sens-serif;
+    word-spacing:5px;	
+}
+#aboutajio
+{
+	text-align:justify;
+}
+#img1
+{
+	width:100%;
+}
+#img2
+{
+	width:100%;
+}
+#img3
+{
+	width:100%;
+}
+#img4
+{
+	width:100%;
+}
+#img5
+{
+	width:100%;
+}
+#img6
+{
+	width:100%;
+}
+#img7
+{
+	width:100%;
+}
+#img8
+{
+	width:100%;
+}
+#img9
+{
+	width:100%;
+}
+#img10
+{
+	width:100%;
+}
+#img11
+{
+	width:100%;
+}
+#img12
+{
+	width:100%;
+}
+#img13
+{
+	width:100%;
+}
+#img14
+{
+	width:100%;
+}
+#img15
+{
+	width:100%;
+}
+#img16
+{
+	width:100%;
+}
+#img17
+{
+	width:100%;
+}
+#img18
+{
+	width:100%;
+}
+#img19
+{
+	width:100%;
+}
+#img20
+{
+	width:100%;
+}
+#img21
+{
+	width:100%;
+}
+#img22
+{
+	width:100%;
+}
+#img23
+{
+	width:100%;
+}
+#img24
+{
+	width:100%;
+}
+#img25
+{
+	width:100%;
+}
+#img26
+{
+	width:100%;
+}
+
+#img27
+{
+	width:100%;
+}
+#img28
+{
+	width:100%;
+}
+#img29
+{
+	width:100%;
+}
+
+#img30
+{
+	width:100%;
+}
+#img31
+{
+	width:100%;
+}
+#img32
+{
+	width:100%;
+}
+#img33
+{
+	width:100%;
+}
+#img34
+{
+	width:100%;
+}
+#exchange
+{
+	height:100px;
+}
+
+ <!--<h1>cold season</h1> -->
+#part1
+{
+	margin:0;
+}
+#part1  figure img{
+	transform:scale(1);
+	transition:all 1s ease-in-out;
+}
+#part1  figure:hover img{
+	transform:scale(1.1);
+}
+figure {
+	overflow:hidden;
+}
+
+ <!--top on charts -->
+#part2
+{
+	margin:0;
+}
+#part2 figure img{
+	transform:scale(1);
+	transition:all 1s ease-in-out;
+}
+#part2 figure:hover img{
+	transform:scale(1.1);
+}
+figure
+{
+	overflow:hidden;
+}
+
+<!-- best of brands 1--->  
+#part3
+{
+	margin:0;
+}
+#part3 figure img{
+	transform:scale(1);
+	transition:all 0.3s ease-in-out;
+}
+#part3 figure:hover img{
+	transform:scale(1.1);
+}
+
+figure
+{
+	overflow:hidden;
+}
+
+
+
+
+<!-- best of brands 2---> 
+#part4
+{
+	margin:0;
+}
+#part4 figure img{
+	transform:scale(1);
+	transition:all 0.3s ease-in-out;
+}
+#part4 figure:hover img{
+	transform:scale(1.1);
+}
+figure
+{
+	overflow:hidden;
+}
+
+
+
+<!---show stopping deals --->	
+<!---under399--->
+#part5
+{
+	margin:0;
+}
+#part5  figure img{
+	transform:scale(1);
+	transition:all 0.3s ease-in-out;
+}
+#part5  figure:hover img{
+	transform:scale(1.1);
+}
+figure {
+	overflow:hidden;
+}
+
+<!---under699--->
+#part6
+{
+	margin:0;
+}
+#part6  figure img{
+	transform:scale(1);
+	transition:all 0.3s ease-in-out;
+}
+#part6  figure:hover img{
+	transform:scale(1.1);
+}
+figure {
+	overflow:hidden;
+}
+<!---under999--->
+#part7
+{
+	margin:0;
+}
+#part7 figure img{
+	transform:scale(1);
+	transition:all 0.3s ease-in-out;
+}
+#part7 figure:hover img{
+	transform:scale(1.1);
+}
+figure
+{
+	overflow:hidden;
+}
+
+
+
+#part8
+{
+	margin:0;
+}
+#part8 figure img{
+	transform:scale(1);
+	transition:all 0.3s ease-in-out;
+}
+#part8 figure:hover img{
+	transform:scale(1.1);
+}
+figure
+{
+	overflow:hidden;
+}
+#part9
+{
+	margin:0;
+}
+#part9 figure img{
+	transform:scale(1);
+	transition:all 0.3s ease-in-out;
+}
+#part9 figure:hover img{
+	transform:scale(1.1);
+}
+figure
+{
+	overflow:hidden;
+}
+#part10
+{
+	margin:0;
+}
+#part10 figure img{
+	transform:scale(1);
+	transition:all 0.3s ease-in-out;
+}
+#part10 figure:hover img{
+	transform:scale(1.1);
+}
+figure
+{
+	overflow:hidden;
+}
+#part11
+{
+	margin:0;
+}
+#part11 figure img{
+	transform:scale(1);
+	transition:all 0.3s ease-in-out;
+}
+#part11 figure:hover img{
+	transform:scale(1.1);
+}
+figure
+{
+	overflow:hidden;
+}
+h4{
+	color:white;
+}
+#ajiof
+{
+	  font-size: 10px;
+	  color:white;
+}
+#ajiof1
+{
+	  font-size: 10px;
+	  color:white;
+}
+#ajiof2
+{
+	  font-size: 10px;
+	  color:white;
+}
+#ajiof3
+{
+	  font-size: 10px;
+	  color:white;
+}
+#footerback
+{
+	background-color:#36486b
+}
+h3
+{
+	color:white;
+}
+#netbank
+{
+	height:100px;
+	margin:-20px;
+}
+#meastro
+{
+		height:50px;
+	width:-10px
+}
+#visa
+{
+		height:50px;
+	width:-10px
+}
+#cod
+{
+		height:50px;
+	width:-10px
+}

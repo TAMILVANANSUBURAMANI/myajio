@@ -1,0 +1,71 @@
+.frm
+{
+	border-radius:10px;
+	border:solid 5px;
+	border-color:white;
+	width:450px;
+	height:400px;
+	margin:20vh auto auto auto;
+}
+
+.names
+{
+margin-left:90px;
+height:25px;
+width:300px;	
+border-radius:5px;
+}
+
+.phno
+{
+margin-left:90px;
+height:25px;
+width:300px;
+border-radius:5px;	
+}
+
+.emaill
+{
+margin-left:90px;
+height:25px;
+width:300px;
+border-radius:5px;	
+}
+
+.pd
+{
+margin-left:90px;
+height:25px;
+width:300px;
+border-radius:5px;		
+}
+
+.sgnup
+{
+	margin-left:210px;
+	height:25px;
+	border-radius:5px;
+}	
+
+.hed
+{
+text-align:center;
+margin-top:-10px;
+}
+
+.hed input
+{
+text-align:center;
+
+}
+
+.body
+{
+background-image:url(https://wallpaperxyz.com/wp-content/uploads/Aesthetic-Wallpaper-Full-HD-Free-Download-for-Laptop-Desktop-Macbook-0759-Wallpaperxyz.com-3.jpg);	
+background-repeat:no-repeat;
+background-size:cover;
+}
+.sgog
+{
+text-align:center;	
+}

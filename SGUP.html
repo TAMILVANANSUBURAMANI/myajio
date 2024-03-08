@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="SGUP.css">
+<title>Sign Up</title> 
+<script>
+function validateform() {
+    var name = document.signup.name.value;
+    var phonenumber = document.signup.number.value;
+    var password = document.signup.password.value;
+    var email = document.signup.email.value;
+
+    if (name == "") {
+        alert("Name can't be blank");
+        return false;
+    }
+
+    if (phonenumber.length < 10) {
+        alert("Phone number must be at least 10 characters long.");
+        return false;
+    }
+
+    if (password.length < 6) {
+        alert("Password must be at least 6 characters long.");
+        return false;
+    }
+
+    if (!email.match(/^([a-zA-Z0-9]+)@([a-zA-Z]+)([\.])([a-z]{2,5})$/)) {
+        alert("Incorrect email format");
+        return false;
+    }
+
+    return true;
+}
+</script>
+</head>
+
+<body class="body">
+<form class="frm" name="signup" action="" onsubmit="return validateform()">
+<br>
+<br>
+<br>
+<h1 class="hed">SIGN UP</h1>
+<label class="names">Name:<br>
+<input class="names" type="text" name="name" placeholder="Name"></label><br><br>
+
+<label class="phno">Phone Number:<br>
+<input class="phno" type="number" name="number" placeholder="Phone Number"></label><br><br>
+
+<label class="emaill">E-mail:<br>
+<input class="emaill" type="text" name="email" placeholder="Email"></label><br><br>
+
+<label class="pd">Password:<br>
+<input class="pd" type="password" name="password" placeholder="Password"></label><br><br>
+
+<button class="sgnup">Sign Up</button>
+</form>
+</body>
+</html>
